@@ -1,9 +1,9 @@
 # XueQiu_Stock_Spider
 <br/>
 ### 雪球网股票数据Scrapy爬虫, 生成数据, 分析数据, 预测股价.**
-<br/>
+
 **雪球网 => redis => Scrapy爬虫 => MongoDB => 分析数据 => 模块 => 股价**
-<br/>
+
 **设计流程:**
 
 - 基于python 2.7, Redis和MongoDB, 使用Scrapy和Scrapy_redis以及mongo 模块.
